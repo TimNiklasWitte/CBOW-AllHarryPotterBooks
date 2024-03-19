@@ -16,3 +16,9 @@ A CBOW model was trained on [all harry potter books](https://www.kaggle.com/data
 <img src="./media/Words.png" width="600" height="400">
 
 <img src="./media/Magic.png" width="600" height="400">
+
+## Merge saved_models zip files into a single zip file
+
+```
+zip -F saved_models.zip --out single_saved_models.zip
+```
